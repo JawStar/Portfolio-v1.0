@@ -1,7 +1,7 @@
 # Abdul Wasay Jagirdar — Cybersecurity Portfolio
 
 > 3D cybersecurity-themed portfolio built with Three.js, HTML, CSS.  
-> Live at: **https://jawstar.github.io/portfolio**
+> Live at: **https://jawstar.github.io/Portfolio-v1.0/**
 
 ## Features
 - 3D animated particle field + wireframe geometry (Three.js)
